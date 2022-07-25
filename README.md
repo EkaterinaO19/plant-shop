@@ -1,3 +1,24 @@
+# Plant-shop
+
+Plant-shop is HTML CSS JS responcive app.
+
+## Installation
+
+Use the package manager npm inint to install.
+
+```bash
+npm init
+```
+
+## Usage
+
+```
+import plant
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">A frontend developer</h3>
 
