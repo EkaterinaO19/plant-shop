@@ -1,6 +1,6 @@
 # Plant-shop
 
-Plant-shop is HTML CSS JS responcive app.
+Plant-shop is HTML CSS JS responsive app.
 
 ## Installation
 
