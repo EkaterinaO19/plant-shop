@@ -1,5 +1,7 @@
 # Plant-shop
 
+![Alt text]("https://drive.google.com/file/d/17nGGK9ewpiOlf7cBnddgJ3RLT_gnTpcp/view?usp=sharing")
+
 Plant-shop is HTML CSS JS responsive app.
 
 ## Installation
