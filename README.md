@@ -1,5 +1,5 @@
 # Plant-shop
-
+![App Screenshot](screens/Plant.png)
 Plant-shop is HTML CSS JS responsive app.
 
 ## Installation
