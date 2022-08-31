@@ -1,6 +1,11 @@
 # Plant-shop
-![App Screenshot](screens/Plant.png)
+
 Plant-shop is HTML CSS JS responsive app.
+ 
+##Screenshorts
+
+![App Screenshot](screens/Plant.png)
+![App Screenshot](screens/Plant (1).png)
 
 ## Installation
 
@@ -8,12 +13,6 @@ Use the package manager npm inint to install.
 
 ```bash
 npm init
-```
-
-## Usage
-
-```
-import plant
 ```
 
 ## Contributing
