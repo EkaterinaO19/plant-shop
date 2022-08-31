@@ -5,7 +5,6 @@ Plant-shop is HTML CSS JS responsive app.
 ##Screenshorts
 
 ![App Screenshot](screens/Plant.png)
-![App Screenshot](screens/Plant (1).png)
 
 ## Installation
 
